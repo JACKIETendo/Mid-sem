@@ -39,3 +39,20 @@
 .tab-links.active-link::after{
     width: 50%;
 }
+@media only screen and (max-width: 576px){
+    .header_text{
+        margin-top: 100%;
+        font-size: 20px;
+        padding-top: 500px;
+        margin-left: 20px;
+        margin-top: 550px;
+    }
+}
+@media screen and (max-width:1060px) {
+    .header_text{
+        margin-top: 100%;
+        font-size: 20px;
+        padding-top: 500px;
+        margin-left: 20px;
+    }
+}
